@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/58564c18-3edb-4378-9672-87d5cd8a536b/resourceGroups/azure-hanzon-manual-4-9_group/providers/Microsoft.Web/sites/azure-hanzon-manual-4-9",
+    "appService.deploySubpath": "."
+}
